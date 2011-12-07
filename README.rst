@@ -1,8 +1,8 @@
 .. -*- coding: utf-8 -*-
 
 .. _mailing list: http://lists.alioth.debian.org/mailman/listinfo/offlineimap-project
-.. _github: http://FIXME
-.. _IMAPMIXER: *imap-mixer*
+.. _github: git://github.com/nicolas33/imap-mixer.git
+.. _IMAPMIXER: https://github.com/nicolas33/imap-mixer
 
 ======
 README
