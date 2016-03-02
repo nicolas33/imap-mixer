@@ -87,3 +87,8 @@ Bugs, issues and contributions should be reported to the `mailing list`_.
 **Please, don't use the github features (messages, pull requests, etc) at all.
 It would most likely be discarded or ignored.**
 
+
+
+.. image:: https://badges.gitter.im/nicolas33/imap-mixer.svg
+   :alt: Join the chat at https://gitter.im/nicolas33/imap-mixer
+   :target: https://gitter.im/nicolas33/imap-mixer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
